@@ -2,7 +2,7 @@
 
 ## Overview
 
-During Week 2, I configured pfSense to serve as the firewall and router for my SOC homelab. I segmented the environment into separate networks to simulate a real-world enterprise architecture.
+I configured pfSense to serve as the firewall and router for my SOC homelab. I segmented the environment into separate networks to simulate a real-world enterprise architecture.
 
 ---
 
