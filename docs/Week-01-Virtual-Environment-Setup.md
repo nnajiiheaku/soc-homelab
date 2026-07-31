@@ -2,7 +2,7 @@
 
 ## Overview
 
-During Week 1, I created the virtual infrastructure for my Enterprise SOC Homelab using VirtualBox.
+ I created the virtual infrastructure for my Enterprise SOC Homelab using VirtualBox.
 
 The goal was to build the systems needed for a segmented cybersecurity environment before configuring networking, logging, monitoring, and detection tools.
 
