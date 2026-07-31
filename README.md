@@ -8,29 +8,8 @@ The objective is to gain hands-on experience with enterprise security tools by d
 
 
 ## Lab Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3de1bdad-d1c0-4034-87ff-becf82fd37b6" />
 
-```
-                 Internet
-                     │
-                ┌─────────┐
-                │ pfSense │
-                └────┬────┘
-                     │
-      ┌──────────────┼──────────────┐
-      │              │              │
-┌──────────┐   ┌──────────┐   ┌──────────┐
-│    SOC   │   │  Victim  │   │ Attacker │
-│192.168.10│   │192.168.20│   │192.168.30│
-└────┬─────┘   └────┬─────┘   └────┬─────┘
-     │              │              │
- ┌────────┐     ┌─────────┐     ┌────────┐
- │ Splunk │     │Windows11│     │  Kali  │
- ├────────┤     └─────────┘     └────────┘
- │ Wazuh  │
- └────────┘
-```
-
----
 
 ## Tech Stack
 
