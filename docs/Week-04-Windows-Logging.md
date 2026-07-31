@@ -2,7 +2,7 @@
 
 ## Overview
 
-Week 4 focused on increasing endpoint visibility by configuring Windows logging and Sysmon. The objective was to generate security telemetry that could later be analyzed in Wazuh and Splunk.
+I focused on increasing endpoint visibility by configuring Windows logging and Sysmon. The objective was to generate security telemetry that could later be analyzed in Wazuh and Splunk.
 
 ---
 
