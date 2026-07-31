@@ -2,7 +2,7 @@
 
 ## Overview
 
-During Week 3, I deployed Wazuh as the primary security monitoring platform for my SOC homelab. I configured agents, verified endpoint communication, and validated that Windows and Linux systems were successfully sending security events.
+I deployed Wazuh as the primary security monitoring platform for my SOC homelab. I configured agents, verified endpoint communication, and validated that Windows and Linux systems were successfully sending security events.
 
 ---
 
